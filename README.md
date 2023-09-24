@@ -1,6 +1,3 @@
-<a href="https://nodejs.org/">
-  <img src="https://camo.githubusercontent.com/7f2c4fcde8bb3369fc7fdad45407fbb22c079670b52e96583fb065e2fa22aa0d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6769616e6c7563616a61686e26636f6c6f723d626c7565" />
-</a>
 
 ## My portfolio
 🖥 <a href="https://asantesylvesterkwame.onrender.com">My portfolio website</a> <br />
