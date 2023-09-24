@@ -17,7 +17,7 @@ Hey, I’m Asante Sylvester Kwame. I'm from Ghana and I'm a self-taught Full-sta
   <img src="https://nodejs.org/static/images/logo.svg" />
 </a>
 
-<a href="https://expressjs.com/">
+<a width="24px" href="https://expressjs.com/">
   <img src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png" />
 </a>
 
