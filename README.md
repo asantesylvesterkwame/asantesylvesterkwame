@@ -4,7 +4,7 @@
 🤝🏻 <a href="https://www.linkedin.com/in/asantesylvesterkwame/">My LinkedIn profile</a>
 
 ## About Me 
-Hey, I’m Asante Sylvester Kwame. I'm from Ghana and I'm a self-taught Full-stack developer. I usually work with React and Node.js or the MERN Stack for my fullstack development but have found some interest in the BlockChain recently. I'm a huge enthusiast of Music and Music production, which is why I have my catalogue of self-produced songs(https://www.youtube.com/@SylverTRIGR)! Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else. 
+Hey, I’m Asante Sylvester Kwame. I'm from Ghana and I'm a self-taught Full-stack developer. I usually work with React and Node.js or the MERN Stack for my fullstack development but have found some interest in the BlockChain recently. I'm a huge enthusiast of Music and Music production, which is why I have my catalogue of self-produced [songs](https://www.youtube.com/@SylverTRIGR)! Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else. 
 
 ## My Tech Stack
 
