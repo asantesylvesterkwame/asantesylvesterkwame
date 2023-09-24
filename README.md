@@ -56,7 +56,7 @@ Hey, I’m Asante Sylvester Kwame. I'm from Ghana and I'm a self-taught Full-sta
 
 ## Getting in touch
 
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=intelligentson17@gmail.com&su=&body=&tf=cm>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=intelligentson17@gmail.com&su=&body=&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
