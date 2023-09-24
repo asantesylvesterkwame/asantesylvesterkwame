@@ -14,15 +14,15 @@ Hey, I’m Asante Sylvester Kwame. I'm from Ghana and I'm a self-taught Full-sta
 </a>
 
 <a href="https://nodejs.org/">
-  <img src="https://nodejs.org/static/images/logo.svg" />
+  <img width="350" src="https://nodejs.org/static/images/logo.svg" />
 </a>
 
-<a width="24px" href="https://expressjs.com/">
-  <img src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png" />
+<a  href="https://expressjs.com/">
+  <img  src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png" />
 </a>
 
 <a href="https://www.mongodb.com/">
-  <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" />
+  <img src="![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" />
 </a>
 
 <a href="https://nextjs.org/">
