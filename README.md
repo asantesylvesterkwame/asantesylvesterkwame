@@ -1,4 +1,4 @@
-y
+
 
 ## My portfolio
 🖥 <a href="https://asantesylvesterkwame.onrender.com">My portfolio website</a> <br />
