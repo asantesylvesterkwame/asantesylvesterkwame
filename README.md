@@ -98,6 +98,10 @@
       <img src="icons/mongodb.svg" alt="mongodb.js" width="40" height="40"/>
       <br/>MongoDB
     </td>
+        <td align="center" height="70" width="70">
+      <img src="icons/firebase.svg" alt="Firebase" width="40" height="40"/>
+      <br/>Firebase
+    </td>
 <!--     <td align="center" height="70" width="70">
       <img src="icons/prisma.svg" alt="Prisma" width="40" height="40"/>
       <br/>Prisma
@@ -120,10 +124,6 @@
     <td align="center" height="70" width="70">
       <img src="icons/vite.svg" alt="Vite" width="40" height="40"/>
       <br/>Vite
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/firebase.svg" alt="Firebase" width="40" height="40"/>
-      <br/>Firebase
     </td>
     <!-- <td align="center" height="70" width="70">
       <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
