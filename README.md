@@ -82,12 +82,12 @@
   </tr>
 </table>
 
-<h3 align='center'>👷🏻 BackEnd</h3>
+<h3 align='center'>👷🏻 Backend</h3>
 
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/nest.svg" alt="Nest.js" width="40" height="40"/>
+      <img src="icons/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
       <br/>Node.js
     </td>
 <!--     <td align="center" height="70" width="70">
@@ -114,13 +114,13 @@
       <br/>Vite
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/aws.svg" alt="GitLab" width="40" height="40"/>
+      <img src="icons/firebase.svg" alt="Firebase" width="40" height="40"/>
       <br/>Firebase
     </td>
-    <td align="center" height="70" width="70">
+    <!-- <td align="center" height="70" width="70">
       <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
       <br/>Figma
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -132,10 +132,10 @@
 
 <!-- <table>
   <tr>
-    <!-- <td width='50%'></td> -->
+    <td width='50%'></td>
     <td width='50%' colspan='2'>
       <h2 align='center'>Weaponry</h2>
-      <div align='center'>  
+      <div align='center'>
         <img src='img/weaponry.png' alt='Chronous' width='50%'/>
         <br>
         <br>
@@ -154,7 +154,7 @@
   <tr>
     <td width='50%'>
       <h2 align='center'>Chronous Landing</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://chronous.midstem.net'>
           <img src='img/chronous-landing.png' alt='Chronous'/>
         </a>
@@ -170,7 +170,7 @@
     </td>
     <td width='50%'>
       <h2 align='center'>Chronous</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://chronous.midstem.net/default-chronous/'>
           <img src='img/chronous.png' alt='Chronous'/>
         </a>
@@ -191,7 +191,7 @@
   <tr>
     <td width='50%'>
       <h2 align='center'>Streamers</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://alex-dishen.github.io/streamers/'>
           <img src='img/streamers.png' alt='Streamers'/>
         </a>
@@ -210,7 +210,7 @@
     </td>
     <td width='50%'>
       <h2 align='center'>Game Harbor</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://alex-dishen.github.io/game-harbor/'>
           <img src='img/game-harbor.png' alt='Shop'/>
         </a>
@@ -231,7 +231,7 @@
   <tr>
     <td width='50%'>
       <h2 align='center'>Moris</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href="https://github.com/alex-dishen/moris">
           <img src='img/moris.jpg' alt='Moris CLI project'/>
         </a>
@@ -247,7 +247,7 @@
     </td>
     <td width='50%'>
       <h2 align='center'>Node Navigation</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://node-navigation.alex-dishen.repl.co'>
           <img src='img/node-navigation.png' alt='Node navigation project'/>
         </a>
@@ -268,7 +268,7 @@
   <tr>
     <td width='50%'>
       <h2 align='center'>Swipi Landing</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://swipi.midstem.net'>
           <img src='img/swipi-landing.png' alt='Swipi landing project'/>
         </a>
@@ -282,7 +282,7 @@
     </td>
     <td width='50%'>
       <h2 align='center'>Portfolio</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://alex-dishen.web.app'>
           <img src='img/portfolio.png' alt='Portfolio'/>
         </a>
@@ -303,7 +303,7 @@
   <tr>
     <td width='50%'>
       <h2 align='center'>Swipi</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://swipi.midstem.net'>
           <img src='img/slider.png' alt='Swipi project'/>
         </a>
@@ -322,7 +322,7 @@
     </td>
     <td width='50%'>
       <h2 align='center'>Currency Converter</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://alex-dishen.github.io/currency-converter/'>
           <img src='img/currency-converter.png' alt='Currency Converter project'/>
         </a>
@@ -343,7 +343,7 @@
   <tr>
     <td width='50%'>
       <h2 align='center'>To-Do</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://alex-dishen.github.io/todo-app/'>
           <img src='img/todo.png' alt='To-Do project'/>
         </a>
@@ -362,7 +362,7 @@
     </td>
     <td width='50%'>
       <h2 align='center'>Memory Card</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://alex-dishen.github.io/memory-card/'>
           <img src='img/memory-card.png' alt='Memory Card Project'/>
         </a>
@@ -383,7 +383,7 @@
   <tr>
     <td width='50%'>
     <h2 align='center'>CV Maker</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://alex-dishen.github.io/cv-maker/'>
           <img src='img/cv.png' alt='CV Creator project'/>
         </a>
@@ -401,7 +401,7 @@
       </div></td>
     <td width='50%'>
       <h2 align='center'>Tic Tac Toe</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://alex-dishen.github.io/tic-tac-toe/'>
           <img src='img/tic-tac-toe.png' alt='Tic Tac Toe project'/>
         </a>
@@ -422,7 +422,7 @@
   <tr>
     <td width='50%'>
       <h2 align='center'>Library</h2>
-      <div align='center'>  
+      <div align='center'>
         <a href='https://alex-dishen.github.io/library/'>
           <img src='img/library.png' alt='library'/>
         </a>
@@ -441,7 +441,7 @@
     </td>
     <td width='50%'>
       <h2 align="center">Admin Dashboard</h2>
-      <div align="center">  
+      <div align="center">
         <a href='https://alex-dishen.github.io/admin-dashboard/'>
           <img src="img/admin_dashboard.png" alt="dashboard"/>
         </a>
@@ -462,7 +462,7 @@
   <tr>
     <td width='50%'>
       <h2 align="center">Sign-up Form</h2>
-      <div align="center">  
+      <div align="center">
         <a href='https://alex-dishen.github.io/sign-up-form/'>
           <img src="img/sign-up-form.png" alt="sign-up form"/>
         </a>
@@ -478,10 +478,10 @@
         </p>
         <p><strong>HTML, CSS, JavaScript</strong></p>
       </div>
-    </td>    
+    </td>
     <td width='50%'>
       <h2 align="center">Calculator</h2>
-      <div align="center">  
+      <div align="center">
         <a href='https://alex-dishen.github.io/calculator/'>
           <img src="img/Calculator.png" alt="Calculator"/>
         </a>
@@ -502,7 +502,7 @@
   <tr>
     <td width='50%'>
       <h2 align="center">Etch-a-Sketch</h2>
-      <div align="center">  
+      <div align="center">
         <a href='https://alex-dishen.github.io/etch-a-sketch/'>
           <img src="img/etch-a-sketch.png" alt="Etch-A-Sketch"/>
         </a>
@@ -521,7 +521,7 @@
     </td>
     <td width='50%'>
       <h2 align="center">Rock Paper Scissors</h2>
-      <div align="center">  
+      <div align="center">
         <a href='https://alex-dishen.github.io/rock-paper-scissors/'>
           <img src="img/rock-paper-scissors.png" alt="Rock Paper Scissors"/>
         </a>
@@ -542,7 +542,7 @@
   <tr>
     <td width='50%'>
       <h2 align="center">Landing page</h2>
-      <div align="center">  
+      <div align="center">
         <a href='https://alex-dishen.github.io/landing-page/'>
           <img src="img/landing-page.png" alt="Landing Page"/>
         </a>
@@ -561,7 +561,7 @@
     </td>
     <td width='50%'>
       <h2 align="center">Recipes</h2>
-      <div align="center">  
+      <div align="center">
         <a href='https://alex-dishen.github.io/recipes/'>
           <img src="img/recipes.png" alt="Recipes"/>
         </a>
