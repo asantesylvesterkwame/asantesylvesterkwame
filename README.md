@@ -91,8 +91,12 @@
       <br/>Node.js
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/express.svg" alt="Node.js" width="40" height="40"/>
+      <img src="icons/express.svg" alt="express.js" width="40" height="40"/>
       <br/>Express
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/mongodb.svg" alt="mongodb.js" width="40" height="40"/>
+      <br/>MongoDB
     </td>
 <!--     <td align="center" height="70" width="70">
       <img src="icons/prisma.svg" alt="Prisma" width="40" height="40"/>
