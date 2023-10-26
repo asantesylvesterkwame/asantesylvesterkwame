@@ -90,6 +90,10 @@
       <img src="icons/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
       <br/>Node.js
     </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/express.svg" alt="Node.js" width="40" height="40"/>
+      <br/>Express
+    </td>
 <!--     <td align="center" height="70" width="70">
       <img src="icons/prisma.svg" alt="Prisma" width="40" height="40"/>
       <br/>Prisma
@@ -126,9 +130,9 @@
 
 <br>
 
-<h1 align="center">Projects</h1>
+<!-- <h1 align="center">Projects</h1>
 
-<h2 align="center">Newest Projects First</h2>
+<h2 align="center">Newest Projects First</h2> -->
 
 <!-- <table>
   <tr>
