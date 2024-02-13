@@ -3,9 +3,9 @@
 <br>
 <p align="center">
   I'm an 18 year old Software Engineer based in Ghana<br>
-  I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
+  I enjoy being given challenging, mind-bloggling logic and making them a reality. <br>
   The thing that excites me, and gets me pumped up <br>
-  is the process of tearing an idea down into its smallest components, <br> 
+  is the process of tearing an idea down into its smallest modules, services, controllers and routes, <br> 
   learning, and figuring out how to put those pieces together<br>
   while creating something really awesome.
  <br>
@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/asantesylvesterkwame/"> 
     <img src="icons/linkedin.svg" alt="LinkedIn" height="25" width='25' />
   </a>
-  <a href="mailto: didyshen.oleksandr@gmail.com"> 
+  <a href="mailto: asantesylvesterkwame@gmail.com"> 
     <img src="icons/gmail.svg" alt="Gmail" height="25" width='25' />
   </a>
 </div>
